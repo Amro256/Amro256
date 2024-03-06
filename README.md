@@ -1,9 +1,7 @@
-### Hi there 👋
-<h1>Test</h1>
-<!--
-**Amro256/Amro256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 
+<h1 align="center"> Hi there, I'm Amro👋</h1>
 
-Here are some ideas to get you started:
+  <h2 align="center"> A 2nd year Games Design and Development Student </h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  <br>
+###
+<!-- Contact Stuff -->
+<h3 align = "left" > Connect with me: </h3>
+<p align = "left">
+<a herf = "www.linkedin.com/in/amro-el-sheikh"
+
+
