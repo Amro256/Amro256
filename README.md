@@ -16,6 +16,8 @@
 <!-- Contact Stuff -->
 <h3 align = "left" > Connect with me: </h3>
 <p align = "left">
-<a herf = "www.linkedin.com/in/amro-el-sheikh"
+<a herf = "www.linkedin.com/in/amro-el-sheikh" <img src="![LI-In-Bug](https://github.com/Amro256/Amro256/assets/141826443/89fa96a3-2de5-42bb-b2ef-eeb763b79125)" height = "30" width "40" </a>
+
+
 
 
