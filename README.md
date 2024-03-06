@@ -1,22 +1,23 @@
 ### 
 <h1 align="center"> Hi there, I'm Amro👋</h1>
 
-  <h2 align="center"> A 2nd year Games Design and Development Student </h2>
+  <h2 align="center"> A Games Design and Development Student </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently a 2nd year games student at the University of Greenwich, specialising in programming.
+-  With experience in C# and Unity
+- 🌱 I’m currently learning Unreal Engine 5 and C++ at university
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm a fan of a certain blue hedgehog
   <br>
-###
+##
 <!-- Contact Stuff -->
-<h3 align = "left" > Connect with me: </h3>
-<p align = "left">
-<a herf = "www.linkedin.com/in/amro-el-sheikh" <img src="![LI-In-Bug](https://github.com/Amro256/Amro256/assets/141826443/89fa96a3-2de5-42bb-b2ef-eeb763b79125)" height = "30" width "40" </a>
+## Connect with me  :
+<a href="www.linkedin.com/in/amro-el-sheikh">
+<img align= "left" src =https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
+</a>
+
+
+<!-- <h3 align = "left" > Connect with me: </h3> -->
 
 
 
