@@ -12,9 +12,8 @@
 ##
 <!-- Contact Stuff -->
 ## Connect with me  :
-<a href="www.linkedin.com/in/amro-el-sheikh">
-<img align= "left" src =https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
-</a>
+[![Image](https://github.com/Amro256/Amro256/assets/141826443/2b8db1d4-cdf6-407f-866b-bc13634177dc)](www.linkedin.com/in/amro-el-sheikh)
+
 
 
 <!-- <h3 align = "left" > Connect with me: </h3> -->
