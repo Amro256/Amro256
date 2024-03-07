@@ -8,7 +8,7 @@
 - 🔭 I’m currently a 2nd year games student at <a href="https://www.gre.ac.uk/ "> the University of Greenwich </a>, specialising in programming.
 -  With a year and a half experience with C# and Unity
 - 🌱 I’m currently learning Unreal Engine 5 and C++ at university
-- 📫 Check out my portfolio website: ...
+- 📫 Check out my portfolio website: Coming soon...
 - ⚡ Fun fact: I'm a fan of a certain blue hedgehog
   </div>
 ##
