@@ -1,4 +1,3 @@
-
 <h1 align="center"> Hi there, I'm Amro👋</h1>
 
   <h2 align="center"> A Games Design and Development Student </h2>
@@ -22,11 +21,3 @@
 <a href = "mailto:amro.e.sheikh@gmail.com">
 <img src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" width= "50" height="50"> </a>
 </p>
-
-
-
-<!--  -->
-
-
-
-
