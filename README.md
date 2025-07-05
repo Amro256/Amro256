@@ -1,12 +1,12 @@
 <h1 align="center"> Hi there, I'm Amro👋</h1>
 
-  <h2 align="center"> A Games Design and Development Student </h2>
+  <h2 align="center"> A Games Design and Development Graduate </h2>
 
   <div align = "left">
 
-- 🎮 I’m currently a 2nd year games student at the <a href="https://www.gre.ac.uk/ "> University of Greenwich </a>, specialising in programming.
+- 🎮 I'm a recent graduate in Games Design and Development (Programming) with a First Class Honours from the  <a href="https://www.gre.ac.uk/ "> University of Greenwich </a>.
 - 🔭 I have three years experience with C# and Unity
-- 🌱 I’m currently learning Unreal Engine 5 and C++ at university
+- 🌱 I’m currently learning UI/UX design, and further expanding my knowledge in Unreal Engine 5. 
 - 📫 Check out my portfolio website: https://amroelsheikh123.wixsite.com/portfolio
 - ⚡ Fun fact: I'm a fan of a certain blue hedgehog
   </div>
