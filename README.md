@@ -5,9 +5,9 @@
   <div align = "left">
 
 - 🎮 I’m currently a 2nd year games student at the <a href="https://www.gre.ac.uk/ "> University of Greenwich </a>, specialising in programming.
-- 🔭 Year and a half experience with C# and Unity
+- 🔭 I have three years experience with C# and Unity
 - 🌱 I’m currently learning Unreal Engine 5 and C++ at university
-- 📫 Check out my portfolio website: Coming soon...
+- 📫 Check out my portfolio website: https://amroelsheikh123.wixsite.com/portfolio
 - ⚡ Fun fact: I'm a fan of a certain blue hedgehog
   </div>
 ##
