@@ -4,7 +4,7 @@
 
   <div align = "left">
 
-- 🎮 I'm a recent graduate in Games Design and Development (Programming) with a First Class Honours from the  <a href="https://www.gre.ac.uk/ "> University of Greenwich </a>.
+- 🎮 I'm a recent graduate in Games Design and Development (Programming) from the University Of Greenwich, receiving a with a First Class Honours from the  <a href="https://www.gre.ac.uk/ "> University of Greenwich </a>.
 - 🔭 I have three years experience with C# and Unity
 - 🌱 I’m currently learning UI/UX design, and further expanding my knowledge in Unreal Engine 5. 
 - 📫 Check out my portfolio website: https://amroelsheikh123.wixsite.com/portfolio
