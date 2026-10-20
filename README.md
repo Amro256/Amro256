@@ -1,12 +1,12 @@
 <h1 align="center"> Hi there, I'm Amro👋</h1>
 
-  <h2 align="center"> A Games Design and Development (Programming) Graduate </h2>
+  <h2 align="center"> Gameplay Programmer focused on C# and Unity </h2>
 
   <div align = "left">
 
-- 🎮 A Games Design and Development (Programming) graduate from the University Of Greenwich, graduating with a First Class Honours.
-- 🌱 I’m currently working on 2D arcade light-gun inspired shooter using Unity.
-- 📫 Check out my portfolio website: https://amroelsheikh123.wixsite.com/portfolio
+- 🎮 First-Class Honours Games Design and Development (Programming) graduate.
+- 🌱 Recently Completed Project: Target Frenzy (10/10/26).
+- 📫 Portfolio Website: https://amroelsheikh123.wixsite.com/portfolio
   </div>
 ##
 </div>
