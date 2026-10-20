@@ -4,7 +4,7 @@
 
   <div align = "left">
 
-- 🎮 First-Class Honours Games Design and Development (Programming) graduate.
+- 🎮 First-Class Honours Games Design and Development (Programming) Graduate.
 - 🌱 Recently Completed Project: Target Frenzy (10/10/26).
 - 📫 Portfolio Website: https://amroelsheikh123.wixsite.com/portfolio
   </div>
